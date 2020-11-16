@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Alf says hi!](https://upload.wikimedia.org/wikipedia/en/thumb/8/89/GordonShumway.png/220px-GordonShumway.png)
